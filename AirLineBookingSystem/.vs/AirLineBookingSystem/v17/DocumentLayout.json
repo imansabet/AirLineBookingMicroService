@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirLineBookingSystem.Flights.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.infrastructure\\airlinebookingsystem.flights.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirLineBookingSystem.Flights.Infrastructure.csproj|solutionrelative:airlinebookingsystem.flights.infrastructure\\airlinebookingsystem.flights.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7929B5-79C4-4FD6-BB9A-DF92431B37D3}|AirLineBookingSystem.Bookings.Infrastructure\\AirLineBookingSystem.Bookings.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7929B5-79C4-4FD6-BB9A-DF92431B37D3}|AirLineBookingSystem.Bookings.Infrastructure\\AirLineBookingSystem.Bookings.Infrastructure.csproj|solutionrelative:airlinebookingsystem.bookings.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirlineBookingSystem.Flights.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj",
+              "RelativeToolTip": "AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-28T18:54:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AirLineBookingSystem.Bookings.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "AirLineBookingSystem.Bookings.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T18:53:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
