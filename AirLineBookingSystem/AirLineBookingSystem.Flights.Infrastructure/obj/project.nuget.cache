@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qXg76wR8leg=",
+  "dgSpecHash": "cOrQIN0AsQw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512"
+  ],
   "logs": []
 }

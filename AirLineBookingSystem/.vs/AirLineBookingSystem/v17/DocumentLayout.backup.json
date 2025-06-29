@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|solutionrelative:airlinebookingsystem.bookings.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|solutionrelative:airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B7929B5-79C4-4FD6-BB9A-DF92431B37D3}|AirLineBookingSystem.Bookings.Infrastructure\\AirlineBookingSystem.Bookings.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B7929B5-79C4-4FD6-BB9A-DF92431B37D3}|AirLineBookingSystem.Bookings.Infrastructure\\AirlineBookingSystem.Bookings.Infrastructure.csproj|solutionrelative:airlinebookingsystem.bookings.infrastructure\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|solutionrelative:airlinebookingsystem.bookings.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.infrastructure\\repository\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj|solutionrelative:airlinebookingsystem.flights.infrastructure\\repository\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,46 +49,33 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs",
+              "RelativeToolTip": "AirLineBookingSystem.Flights.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:32:36.743Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeDocumentMoniker": "AirLineBookingSystem.Bookings.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Infrastructure\\Repositories\\BookingRepository.cs",
-              "RelativeToolTip": "AirLineBookingSystem.Bookings.Infrastructure\\Repositories\\BookingRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Title": "FlightRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
+              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
+              "RelativeToolTip": "AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:47:45.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\Program.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Bookings.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\Program.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Bookings.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:40:27.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Bookings.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\appsettings.json",
-              "RelativeToolTip": "AirlineBookingSystem.Bookings.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-29T15:37:15.644Z",
+              "WhenOpened": "2025-06-29T16:25:44.44Z",
               "EditorCaption": ""
             }
           ]
