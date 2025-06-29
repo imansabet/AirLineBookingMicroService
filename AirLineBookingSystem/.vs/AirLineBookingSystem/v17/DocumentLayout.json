@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|solutionrelative:airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8FE8D9F-C35A-4546-A5B4-DB2A837C4C5A}|AirlineBookingSystem.Notifications.Api\\AirlineBookingSystem.Notifications.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.notifications.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE8D9F-C35A-4546-A5B4-DB2A837C4C5A}|AirlineBookingSystem.Notifications.Api\\AirlineBookingSystem.Notifications.Api.csproj|solutionrelative:airlinebookingsystem.notifications.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.infrastructure\\repository\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{524795E1-E97F-453E-96F9-BA08A640435E}|AirLineBookingSystem.Flights.Infrastructure\\AirlineBookingSystem.Flights.Infrastructure.csproj|solutionrelative:airlinebookingsystem.flights.infrastructure\\repository\\flightrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B27025ED-C101-426A-BA26-A17C466FE88B}|AirlineBookingSystem.Notifications.Infrastructure\\AirlineBookingSystem.Notifications.Infrastructure.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.notifications.infrastructure\\repository\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27025ED-C101-426A-BA26-A17C466FE88B}|AirlineBookingSystem.Notifications.Infrastructure\\AirlineBookingSystem.Notifications.Infrastructure.csproj|solutionrelative:airlinebookingsystem.notifications.infrastructure\\repository\\notificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,33 +49,33 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs",
-              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs",
-              "RelativeToolTip": "AirLineBookingSystem.Flights.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T16:32:36.743Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FlightRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
-              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
-              "RelativeToolTip": "AirLineBookingSystem.Flights.Infrastructure\\Repository\\FlightRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Title": "NotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Infrastructure\\Repository\\NotificationRepository.cs",
+              "RelativeDocumentMoniker": "AirlineBookingSystem.Notifications.Infrastructure\\Repository\\NotificationRepository.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Infrastructure\\Repository\\NotificationRepository.cs",
+              "RelativeToolTip": "AirlineBookingSystem.Notifications.Infrastructure\\Repository\\NotificationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T16:25:44.44Z",
+              "WhenOpened": "2025-06-29T16:34:57.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "RelativeToolTip": "AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:34:12.001Z",
               "EditorCaption": ""
             }
           ]
