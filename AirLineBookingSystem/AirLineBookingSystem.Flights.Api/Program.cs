@@ -1,7 +1,9 @@
+using AirlineBookingSystem.Flights.Application.Handlers;
 using AirlineBookingSystem.Flights.Core.Repositories;
 using AirlineBookingSystem.Flights.Infrastructure.Repository;
 using Microsoft.Data.SqlClient;
 using System.Data;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,6 +14,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+
+var assemblies = new Assembly[]
+{
+    Assembly.GetExecutingAssembly(),
+    typeof(CreateFlightCommandHandler).Assembly,
+    typeof(DeleteFlightCommandHandler).Assembly,
+    typeof(GetAllFlightsQueryHandler).Assembly
+};
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(assemblies));
 
 builder.Services.AddScoped<IFlightRepository, FlightRepository>();
 
