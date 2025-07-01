@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|solutionrelative:airlinebookingsystem.flights.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82F65DAD-8EE1-48F8-A3C2-339141E706A7}|AirlineBookingSystem.Bookings.Api\\AirlineBookingSystem.Bookings.Api.csproj|solutionrelative:airlinebookingsystem.bookings.api\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -52,11 +56,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Api\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "AirLineBookingSystem.Flights.Api\\Controllers\\BookingsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T18:38:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingsController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "AirlineBookingSystem.Bookings.Api\\Controllers\\BookingsController.cs",
               "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Bookings.Api\\Controllers\\BookingsController.cs",
               "RelativeToolTip": "AirlineBookingSystem.Bookings.Api\\Controllers\\BookingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T18:30:49.577Z",
               "EditorCaption": ""
