@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EF4336B-64DE-423E-A1DA-1264C01813D7}|AirLineBookingSystem.Flights.Api\\AirlineBookingSystem.Flights.Api.csproj|solutionrelative:airlinebookingsystem.flights.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\handlers\\deleteflightcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\handlers\\deleteflightcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\handlers\\createflightcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\handlers\\createflightcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\handlers\\getallflightsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\handlers\\getallflightsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\commands\\deleteflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\commands\\deleteflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\commands\\createflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\commands\\createflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.flights.application\\queries\\getallflightsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB64B3C2-DE0F-418B-8689-BBD699B531A0}|AirlineBookingSystem.Flights.Application\\AirlineBookingSystem.Flights.Application.csproj|solutionrelative:airlinebookingsystem.flights.application\\queries\\getallflightsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BACEFF-7FA9-4DC7-A006-0B3242A6701E}|AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.bookings.application\\airlinebookingsystem.bookings.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F8BACEFF-7FA9-4DC7-A006-0B3242A6701E}|AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj|solutionrelative:airlinebookingsystem.bookings.application\\airlinebookingsystem.bookings.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E8FE8D9F-C35A-4546-A5B4-DB2A837C4C5A}|AirlineBookingSystem.Notifications.Api\\AirlineBookingSystem.Notifications.Api.csproj|c:\\users\\administrator\\source\\repos\\airlinebookingmicroservice\\airlinebookingsystem\\airlinebookingsystem.notifications.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FE8D9F-C35A-4546-A5B4-DB2A837C4C5A}|AirlineBookingSystem.Notifications.Api\\AirlineBookingSystem.Notifications.Api.csproj|solutionrelative:airlinebookingsystem.notifications.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,99 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs",
-              "RelativeDocumentMoniker": "AirLineBookingSystem.Flights.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Flights.Api\\Program.cs*",
-              "RelativeToolTip": "AirLineBookingSystem.Flights.Api\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:31:58.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DeleteFlightCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\DeleteFlightCommandHandler.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Handlers\\DeleteFlightCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\DeleteFlightCommandHandler.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Handlers\\DeleteFlightCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:20:54.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateFlightCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\CreateFlightCommandHandler.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Handlers\\CreateFlightCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\CreateFlightCommandHandler.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Handlers\\CreateFlightCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:20:40.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteFlightCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Commands\\DeleteFlightCommand.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Commands\\DeleteFlightCommand.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Commands\\DeleteFlightCommand.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Commands\\DeleteFlightCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:19:52.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateFlightCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Commands\\CreateFlightCommand.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Commands\\CreateFlightCommand.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Commands\\CreateFlightCommand.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Commands\\CreateFlightCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:18:08.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GetAllFlightsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\GetAllFlightsQueryHandler.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Handlers\\GetAllFlightsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Handlers\\GetAllFlightsQueryHandler.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Handlers\\GetAllFlightsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:17:41.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetAllFlightsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Queries\\GetAllFlightsQuery.cs",
-              "RelativeDocumentMoniker": "AirlineBookingSystem.Flights.Application\\Queries\\GetAllFlightsQuery.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Flights.Application\\Queries\\GetAllFlightsQuery.cs",
-              "RelativeToolTip": "AirlineBookingSystem.Flights.Application\\Queries\\GetAllFlightsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T19:17:01.827Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
@@ -164,21 +45,21 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AirlineBookingSystem.Bookings.Application",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj",
-              "RelativeDocumentMoniker": "AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj",
-              "RelativeToolTip": "AirLineBookingSystem.Bookings.Application\\AirlineBookingSystem.Bookings.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-30T19:16:31.296Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\AirLineBookingMicroService\\AirLineBookingSystem\\AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "RelativeToolTip": "AirlineBookingSystem.Notifications.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:57:15.949Z",
+              "EditorCaption": ""
             }
           ]
         }

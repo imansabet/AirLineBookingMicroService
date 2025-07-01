@@ -1,8 +1,12 @@
 using AirlineBookingSystem.Flights.Infrastructure.Repository;
+using AirlineBookingSystem.Notifications.Application.Handlers;
+using AirlineBookingSystem.Notifications.Application.Interfaces;
+using AirlineBookingSystem.Notifications.Application.Services;
 using AirlineBookingSystem.Notifications.Core.Repositories;
 using AirlineBookingSystem.Notifications.Infrastructure.Repository;
 using Microsoft.Data.SqlClient;
 using System.Data;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,8 +17,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+var assemblies = new Assembly[]
+{
+    Assembly.GetExecutingAssembly(),
+    typeof(SendNotificationCommandHandler).Assembly,
+};
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblies(assemblies));
 
 builder.Services.AddScoped<INotificationRepository, NotificationRepository>();
+builder.Services.AddScoped<INotificationService, NotificationService>();
 
 builder.Services.AddScoped<IDbConnection>(sp =>
     new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection"))
