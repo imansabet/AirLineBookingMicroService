@@ -8,6 +8,7 @@ namespace AirLineBookingSystem.BuildingBlocks.Contracts.EventBus.Messages;
     public record  FlightBookedEvent
     (
         Guid BookingId ,
+        Guid FightId,
         string PassengerName,
         string SeatNumber,
         DateTime BookingDate
