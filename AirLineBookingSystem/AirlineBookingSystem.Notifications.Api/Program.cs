@@ -1,9 +1,12 @@
 using AirlineBookingSystem.Flights.Infrastructure.Repository;
+using AirlineBookingSystem.Notifications.Application.Consumers;
 using AirlineBookingSystem.Notifications.Application.Handlers;
 using AirlineBookingSystem.Notifications.Application.Interfaces;
 using AirlineBookingSystem.Notifications.Application.Services;
 using AirlineBookingSystem.Notifications.Core.Repositories;
 using AirlineBookingSystem.Notifications.Infrastructure.Repository;
+using AirLineBookingSystem.BuildingBlocks.Common;
+using MassTransit;
 using Microsoft.Data.SqlClient;
 using System.Data;
 using System.Reflection;
@@ -30,6 +33,21 @@ builder.Services.AddScoped<INotificationService, NotificationService>();
 builder.Services.AddScoped<IDbConnection>(sp =>
     new SqlConnection(builder.Configuration.GetConnectionString("DefaultConnection"))
 );
+
+//Masstransit
+builder.Services.AddMassTransit(config =>
+{
+    // mark as consumer 
+    config.AddConsumer<PaymetnProcessedConsumer>();
+    config.UsingRabbitMq((ct, cfg) =>
+    {
+        cfg.Host(builder.Configuration["EventBusSettings:hostAddress"]);
+        cfg.ReceiveEndpoint(EventBusConstant.PaymentProcessedQueue, c =>
+        {
+            c.ConfigureConsumer<PaymetnProcessedConsumer>(ct);
+        });
+    });
+});
 
 
 var app = builder.Build();
