@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirlineBookingSystem.Notifications.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56364712528ed72730ffbaceced10b098c089394")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e214a2da301f7c1ead86db963c073c6628a3d9e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirlineBookingSystem.Notifications.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirlineBookingSystem.Notifications.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
