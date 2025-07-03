@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AirlineBookingSystem.Payments.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e214a2da301f7c1ead86db963c073c6628a3d9e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81ed08a64d7c804dfea6fbf83caa85b485b572df")]
 [assembly: System.Reflection.AssemblyProductAttribute("AirlineBookingSystem.Payments.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AirlineBookingSystem.Payments.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

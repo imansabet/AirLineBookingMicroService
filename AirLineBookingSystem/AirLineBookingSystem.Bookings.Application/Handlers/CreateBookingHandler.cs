@@ -30,7 +30,7 @@ public class CreateBookingHandler : IRequestHandler<CreateBookingCommand, Guid>
 
         await _bookingRepository.AddBookingAsync(booking);
 
-
+        // publish event
         await _publishEndpoint.Publish(new FlightBookedEvent
             (
                 booking.Id,
